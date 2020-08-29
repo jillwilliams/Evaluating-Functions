@@ -58,6 +58,10 @@ h1 {
     border: 1px yellowgreen solid;
     font-family: "Shadows Into Light";
 }
+iframe {
+    margin: 15px 33%;
+    border: 1px yellowgreen solid;
+}
 footer {
     text-align: center;
     font-size: 1.2rem;
